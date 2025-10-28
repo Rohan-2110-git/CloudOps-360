@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>CloudOps 360 - Demo Frontend</title>
+  </head>
+  <body>
+    <h1>CloudOps 360 — Demo Frontend</h1>
+    <div id="status">Loading...</div>
+    <script>
+      fetch('/api/status')
+        .then(r => r.json())
+        .then(j => {
+          document.getElementById('status').innerText = JSON.stringify(j);
+        })
+        .catch(e => { document.getElementById('status').innerText = 'Backend unreachable'; });
+    </script>
+  </body>
+</html>
