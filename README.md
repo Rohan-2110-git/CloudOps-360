@@ -1,4 +1,13 @@
-# CloudOps 360
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Build Status](https://github.com/Akash-k27/autoheal-cloud-devops-platform/actions/workflows/tf-ci.yml/badge.svg)](https://github.com/Akash-k27/autoheal-cloud-devops-platform/actions)
+![Terraform](https://img.shields.io/badge/Terraform-Yes-623CE4?logo=terraform)
+![AWS](https://img.shields.io/badge/AWS-Deployed-232F3E?logo=amazon-aws)
+![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-FF9900?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)
+![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-E6522C?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboard-F46800?logo=grafana)
+
+---
 
 
 # CloudOps 360
