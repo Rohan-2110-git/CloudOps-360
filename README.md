@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Build Status](https://github.com/Akash-k27/autoheal-cloud-devops-platform/actions/workflows/tf-ci.yml/badge.svg)](https://github.com/Akash-k27/autoheal-cloud-devops-platform/actions)
+[![Build Status](https://github.com/Rohan-2110-git/CloudOps-360/actions/workflows/tf-ci.yml/badge.svg)](https://github.com/Rohan-2110-git/CloudOps-360/actions)
 ![Terraform](https://img.shields.io/badge/Terraform-Yes-623CE4?logo=terraform)
 ![AWS](https://img.shields.io/badge/AWS-Deployed-232F3E?logo=amazon-aws)
 ![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-FF9900?logo=amazonaws)
